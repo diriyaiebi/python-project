@@ -5,3 +5,5 @@ will use pandas, sql, matplotlib
 
 and will be uploading my first project soon
 
+i did my first merge request
+
